@@ -1,5 +1,5 @@
-# oera website
-oera
+# sgmedical website
+sgmedical
 
 ###ftp 계정
 - ftp host : 
